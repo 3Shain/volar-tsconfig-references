@@ -15,8 +15,6 @@
       "mock": ["./src/mock-package/index.ts"]
     }
   },
-  "files": [],
-  "include": ["**/*.ts", "**/*.tsx", "**/*.vue"],
   "references": [
     {
       "path": "./tsconfig.app.json"
